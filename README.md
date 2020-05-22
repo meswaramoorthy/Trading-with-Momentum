@@ -1,7 +1,6 @@
-# Trading-with-Momentum
-Udacity AI for Trading nanodegree Project 1
 
-Trading with Momentum Project
+# Trading with Momentum Project
+Udacity AI for Trading nanodegree Project 1
 
 Implement a trading strategy and test to see if the strategy has the potential to be profitable.
 
